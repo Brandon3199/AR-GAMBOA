@@ -1,2 +1,3 @@
-clonando
 ....
+jjj
+git add..
